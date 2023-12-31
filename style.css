@@ -9,7 +9,7 @@ body {
     color: #333;
     background-image: url(img/leaves.png);
 }
-
+/* ini komentar sebaris di dalam blok deklarasi CSS */
 .container{
     width: 960px;
     margin: auto;
